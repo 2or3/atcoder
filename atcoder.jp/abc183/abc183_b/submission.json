@@ -1,0 +1,12 @@
+{
+	"id": 18846786,
+	"epoch_second": 1608304441,
+	"problem_id": "abc183_b",
+	"contest_id": "abc183",
+	"user_id": "2or3",
+	"language": "Ruby (2.7.1)",
+	"point": 200,
+	"length": 98,
+	"result": "AC",
+	"execution_time": 64
+}
