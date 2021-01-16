@@ -1,0 +1,12 @@
+{
+	"id": 19470705,
+	"epoch_second": 1610801693,
+	"problem_id": "keyence2021_a",
+	"contest_id": "keyence2021",
+	"user_id": "2or3",
+	"language": "Ruby (2.7.1)",
+	"point": 300,
+	"length": 291,
+	"result": "AC",
+	"execution_time": 345
+}
