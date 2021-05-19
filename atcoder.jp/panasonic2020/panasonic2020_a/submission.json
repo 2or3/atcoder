@@ -1,0 +1,12 @@
+{
+	"id": 22721587,
+	"epoch_second": 1621386682,
+	"problem_id": "panasonic2020_a",
+	"contest_id": "panasonic2020",
+	"user_id": "2or3",
+	"language": "Ruby (2.7.1)",
+	"point": 100,
+	"length": 145,
+	"result": "AC",
+	"execution_time": 63
+}
