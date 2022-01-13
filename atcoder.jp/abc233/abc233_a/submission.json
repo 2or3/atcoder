@@ -1,0 +1,12 @@
+{
+	"id": 28495890,
+	"epoch_second": 1642083990,
+	"problem_id": "abc233_a",
+	"contest_id": "abc233",
+	"user_id": "2or3",
+	"language": "OCaml (4.10.0)",
+	"point": 100,
+	"length": 102,
+	"result": "AC",
+	"execution_time": 7
+}
